@@ -1,0 +1,12 @@
+{
+    "primaria":"Colegio Tecnico Vicente Azuero",
+    "secundaria":"Colegio Tecnico Vicente Azuero",
+    "titulos":["Bachiller Tecnico en Sistemas"],
+    "universidad":"Ninguna",
+    "maestria":"Ninguna",
+    "cursos":{
+        "Cisco":["Python 1", "IOT Internet de las cosas"],
+        "SENA":["Manejop de herramientas de Microsoft Office 2016: Excel"]
+    },
+    "conocimientosvarios":["PSeInt","Python"]
+}
