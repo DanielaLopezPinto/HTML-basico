@@ -19,7 +19,7 @@ La estructura del Html basico es la siguiente:
 
 # Anidamiento
 
-<main></main>
+ <main></main>
 
 Esto se llama anidamiento. Los elementos anidados deben colocarse dos espacios más a la derecha del elemento en el que están anidados. Este espacio se llama sangría (indentación en programación) y se utiliza para facilitar la lectura de HTML.
 
@@ -75,7 +75,6 @@ El atributo value es usado para definr el valor enviado por el checkbox. El atri
 Los elementos de encabezado h1 a h6 se utilizan para indicar la importancia del contenido por debajo de ellos. Entre menor sea el número, el contenido será más importante.
 
 
-
 **<a></a>**
 
 Por ejemplo:
@@ -97,7 +96,6 @@ Esto hace que en cat photos quede el enlace.
 **<section></section>**
 
 representa una sección genérica de un documento. Sirve para determinar qué contenido corresponde a qué parte de un esquema. Piensa en el esquema como en el índice de contenido de un libro; un tema común y subsecciones relacionadas.
-
 
 
 **<figure></figure>**
