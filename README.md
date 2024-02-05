@@ -19,7 +19,7 @@ La estructura del Html basico es la siguiente:
 
 # Anidamiento
 
-**<main>  </main>**
+**<main /main**
 
 Esto se llama anidamiento. Los elementos anidados deben colocarse dos espacios más a la derecha del elemento en el que están anidados. Este espacio se llama sangría (indentación en programación) y se utiliza para facilitar la lectura de HTML.
 
@@ -75,7 +75,7 @@ El atributo value es usado para definr el valor enviado por el checkbox. El atri
 Los elementos de encabezado h1 a h6 se utilizan para indicar la importancia del contenido por debajo de ellos. Entre menor sea el número, el contenido será más importante.
 
 
-**<a></a>**
+**<a  /a**
 
 Por ejemplo:
 
@@ -93,18 +93,18 @@ Esto hace que en cat photos quede el enlace.
 
 
 
-**<section></section>**
+**<section /section**
 
 representa una sección genérica de un documento. Sirve para determinar qué contenido corresponde a qué parte de un esquema. Piensa en el esquema como en el índice de contenido de un libro; un tema común y subsecciones relacionadas.
 
 
-**<figure></figure>**
+**<figure /figure**
 
 El elemento figure representa contenido independiente y te permitirá asociar una imagen a una descripción.
 
 
 
-**<figcaption></figcaption>**
+**<figcaption /figcaption**
 
 Un elemento (figcaption), se utiliza para añadir una descripción o leyenda para describir una imagen anidada en un elemento figure. Por ejemplo,
 
@@ -113,13 +113,13 @@ añade la descripción "A cute cat".
 
 
 
-**<em></em>**
+**<em /em**
 
 Enfatiza la palabra envolviendola en un elemento énfasis em.
 
 
 
-**<strong></strong>**
+**<strong /strong**
 
 El elemento strong se utiliza para indicar que una parte de un texto es importante o urgente.
 
@@ -133,11 +133,11 @@ Utiliza el elemento button para crear un botón cliqueable. Por ejemplo,
 crea un botón con el texto Click Here
 
 
-**<fieldset></fieldset>**
+**<fieldset /fieldset**
 
 El elemento fieldset se utiliza para agrupar elementos input y label relacionados dentro de un formulario web. Los elementos fieldset son elementos de nivel de bloque, lo que significa que aparecen en una nueva línea.
 
-**<legend></legend>**
+**<legend /legend**
 
 El elemento legend actúa como una leyenda/descripción, para el contenido del elemento fieldset. Le da a los usuarios un contexto sobre lo que deben ingresar en esa parte del formulario.
 
@@ -151,7 +151,7 @@ El elemento legend actúa como una leyenda/descripción, para el contenido del e
 
 ul de "unordered list" -lista no ordenada . crea una lista no ordenada.
 
-**<li></li>**
+**<li  /li**
 
 Utiliza la etiqueta (li - list item) para agregar elementos a una lista. Aquí  hay un ejemplo de una lista de objetos en una lista desordenada:
 
