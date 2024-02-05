@@ -19,7 +19,7 @@ La estructura del Html basico es la siguiente:
 
 # Anidamiento
 
- <main></main>
+**<main>  </main>**
 
 Esto se llama anidamiento. Los elementos anidados deben colocarse dos espacios más a la derecha del elemento en el que están anidados. Este espacio se llama sangría (indentación en programación) y se utiliza para facilitar la lectura de HTML.
 
