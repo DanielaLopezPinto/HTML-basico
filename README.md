@@ -124,7 +124,7 @@ Enfatiza la palabra envolviendola en un elemento énfasis em.
 El elemento strong se utiliza para indicar que una parte de un texto es importante o urgente.
 
 
-**<button></button>**
+**<button /button**
 
 Utiliza el elemento button para crear un botón cliqueable. Por ejemplo, 
 
